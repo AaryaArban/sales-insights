@@ -9,12 +9,15 @@ To analyze historical sales data, identify patterns, cluster similar sales behav
 Techniques Used:
 
 K-Means Clustering for segmenting sales data and identifying patterns in customer behavior.
+
 Facebook Prophet for time series forecasting and trend detection.
 
 Tools & Technologies:
 
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+
 Facebook Prophet
+
 Jupyter Notebook
 
 **⚙️ Key Features**
